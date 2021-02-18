@@ -1,0 +1,369 @@
+C:\Users\Gab8n\Desktop\gamul\GameInavsion\GameInavsion\bin\Debug\GameInavsion.exe.config
+C:\Users\Gab8n\Desktop\gamul\GameInavsion\GameInavsion\bin\Debug\GameInavsion.exe
+C:\Users\Gab8n\Desktop\gamul\GameInavsion\GameInavsion\bin\Debug\GameInavsion.pdb
+C:\Users\Gab8n\Desktop\gamul\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csprojAssemblyReference.cache
+C:\Users\Gab8n\Desktop\gamul\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Form1.resources
+C:\Users\Gab8n\Desktop\gamul\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Properties.Resources.resources
+C:\Users\Gab8n\Desktop\gamul\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.GenerateResource.cache
+C:\Users\Gab8n\Desktop\gamul\GameInavsion\GameInavsion\obj\Debug\GameInavsion.exe
+C:\Users\Gab8n\Desktop\gamul\GameInavsion\GameInavsion\obj\Debug\GameInavsion.pdb
+C:\Users\Gab8n\Desktop\gamul\GameInavsion\GameInavsion\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Gab8n\Desktop\gamul\GameInavsion\GameInavsion\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gab8n\Desktop\gamul\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.ResolveComReference.cache
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\GameInavsion.exe.config
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\GameInavsion.exe
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\GameInavsion.pdb
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csprojAssemblyReference.cache
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.ResolveComReference.cache
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Form1.resources
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Properties.Resources.resources
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.GenerateResource.cache
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\obj\Debug\GameInavsion.exe
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\obj\Debug\GameInavsion.pdb
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\Microsoft.Build.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\System.Memory.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\System.Buffers.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\obj\Debug\GameInavsion.exe.config
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\obj\Debug\GameInavsion.login_form.resources
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.CopyComplete
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\EntityFramework.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\EntityFramework.xml
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\System.Buffers.xml
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\System.Memory.xml
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gab8n\Desktop\gamul3\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Lista.resources
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\GameInavsion.exe.config
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\GameInavsion.exe
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\GameInavsion.pdb
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\EntityFramework.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\System.Buffers.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\System.Memory.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\Microsoft.Build.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\EntityFramework.xml
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\System.Buffers.xml
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\System.Memory.xml
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csprojAssemblyReference.cache
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\obj\Debug\GameInavsion.exe.config
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.ResolveComReference.cache
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Form1.resources
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\obj\Debug\GameInavsion.login_form.resources
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Lista.resources
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Properties.Resources.resources
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.GenerateResource.cache
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.CopyComplete
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\obj\Debug\GameInavsion.exe
+C:\Users\Gab8n\Desktop\gamul5\GameInavsion\GameInavsion\obj\Debug\GameInavsion.pdb
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\GameInavsion.exe.config
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\GameInavsion.exe
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\GameInavsion.pdb
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\EntityFramework.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\System.Buffers.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\System.Memory.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\Microsoft.Build.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\EntityFramework.xml
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\System.Buffers.xml
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\System.Memory.xml
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csprojAssemblyReference.cache
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\obj\Debug\GameInavsion.exe.config
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.ResolveComReference.cache
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Form1.resources
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\obj\Debug\GameInavsion.login_form.resources
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Lista.resources
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Properties.Resources.resources
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.GenerateResource.cache
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.CopyComplete
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\obj\Debug\GameInavsion.exe
+C:\Users\Gab8n\Desktop\gamul6\GameInavsion\GameInavsion\obj\Debug\GameInavsion.pdb
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\GameInavsion.exe.config
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\GameInavsion.exe
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\GameInavsion.pdb
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\EntityFramework.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\System.Buffers.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\System.Memory.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\Microsoft.Build.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\EntityFramework.xml
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\System.Buffers.xml
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\System.Memory.xml
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csprojAssemblyReference.cache
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\obj\Debug\GameInavsion.exe.config
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.ResolveComReference.cache
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Form1.resources
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\obj\Debug\GameInavsion.login_form.resources
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Lista.resources
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Properties.Resources.resources
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.GenerateResource.cache
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.CopyComplete
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\obj\Debug\GameInavsion.exe
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\obj\Debug\GameInavsion.pdb
+C:\Users\Gab8n\Desktop\gamul7\GameInavsion\GameInavsion\obj\Debug\GameInavsion.SplashScreen.resources
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\GameInavsion.exe.config
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\GameInavsion.exe
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\GameInavsion.pdb
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\EntityFramework.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\System.Buffers.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\System.Memory.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\Microsoft.Build.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\EntityFramework.xml
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\System.Buffers.xml
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\System.Memory.xml
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csprojAssemblyReference.cache
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\obj\Debug\GameInavsion.exe.config
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.ResolveComReference.cache
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Form1.resources
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\obj\Debug\GameInavsion.login_form.resources
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Lista.resources
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Properties.Resources.resources
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\obj\Debug\GameInavsion.SplashScreen.resources
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.GenerateResource.cache
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.CopyComplete
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\obj\Debug\GameInavsion.exe
+C:\Users\Gab8n\Desktop\gamul8\GameInavsion\GameInavsion\obj\Debug\GameInavsion.pdb
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\GameInavsion.exe.config
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\GameInavsion.exe
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\GameInavsion.pdb
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\EntityFramework.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\System.Buffers.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\System.Memory.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\Microsoft.Build.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\EntityFramework.xml
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\System.Buffers.xml
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\System.Memory.xml
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csprojAssemblyReference.cache
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\obj\Debug\GameInavsion.exe.config
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.ResolveComReference.cache
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Form1.resources
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\obj\Debug\GameInavsion.login_form.resources
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Lista.resources
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\obj\Debug\GameInavsion.Properties.Resources.resources
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\obj\Debug\GameInavsion.SplashScreen.resources
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.GenerateResource.cache
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\obj\Debug\GameInavsion.csproj.CopyComplete
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\obj\Debug\GameInavsion.exe
+C:\Users\Gab8n\Desktop\Spacial Invaders\GameInavsion\GameInavsion\obj\Debug\GameInavsion.pdb

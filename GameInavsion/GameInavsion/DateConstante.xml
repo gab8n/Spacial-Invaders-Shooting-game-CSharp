@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<dateinceput>
+  <s1>
+    <viteza_munitie_inamici>4</viteza_munitie_inamici>
+    <viteza_fundal>4</viteza_fundal>
+    <viteza_player>5</viteza_player>
+    <viteza_munitie>20</viteza_munitie>
+    <viteza_inamici>4</viteza_inamici>
+    <scor>0</scor>
+    <level>1</level>
+    <dificultate>9</dificultate>
+    <pauza>false</pauza>
+    <gameover>false</gameover> 
+  </s1>
+</dateinceput>
